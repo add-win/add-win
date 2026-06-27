@@ -1,77 +1,114 @@
-<!-- ================= HEADER ================= -->
+<h1 align="center">Hi 👋, I'm Addwin Alanolikkal</h1>
+<h3 align="center">🚀 Full Stack Developer | AI/ML Enthusiast | B.Tech CSE Student</h3>
 
-<h1 align="center">👋 Hey, I'm Addwin Alanolikkal</h1>
-<h3 align="center">🚀 Aspiring Full Stack Developer | 🔗 AI/ML Enthusiast</h3>
-
----
-
-<!-- ================= PROFILE + ABOUT ================= -->
-
-<table>
-<tr>
-<td width="35%" align="center">
-
-<img src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" width="180" style="border-radius:50%" />
-
-### **Addwin Alanolikkal**
-
-`B.Tech CSE (KTU)`
-
-📧 [addwinalanolikkal18@gmail.com](mailto:addwinalanolikkal18@gmail.com)
-🌍 India
-
-</td>
-
-<td width="65%">
-
-## 💫 About Me
-
-🚀 Aspiring Full Stack Developer specializing in Spring Boot & React
-
-📈 Currently improving Data Structures & Algorithms and System Design
-
-💡 Passionate about building scalable, secure, and user-friendly applications
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=add-win&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
 
 ---
 
-## 🌐 Connect With Me
+# 💫 About Me
 
-<p>
-<a href="https://www.linkedin.com/in/addwinalanolikkal/">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+- 🎓 B.Tech Computer Science Engineering (KTU)
+- 💻 Full Stack Developer specializing in **Spring Boot + React**
+- 🌱 Currently learning **Data Structures & Algorithms** and **System Design**
+- 🤖 Interested in **Artificial Intelligence** and **Machine Learning**
+- 🚀 Passionate about building scalable, secure and user-friendly applications
+- 📫 Reach me at **addwinalanolikkal18@gmail.com**
+
+---
+
+# 🌐 Connect with Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/addwinalanolikkal/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
 <a href="mailto:addwinalanolikkal18@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 <a href="https://github.com/add-win">
-<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
 </p>
 
 ---
 
-## 🧰 Tech & Tools
+# 💻 Tech Stack
+
+### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,c,react,nextjs,spring,mysql,git,github,postman,mongodb,numpy" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css"/>
 </p>
 
-</td>
-</tr>
-</table>
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs"/>
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,nodejs"/>
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode"/>
+</p>
 
 ---
 
-<!-- ================= GITHUB OVERVIEW ================= -->
-
-## 📊 GitHub Overview
+# 📊 GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=add-win&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=add-win&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=add-win&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=add-win&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-<h3 align="center">⚡ Building scalable applications, one commit at a time ⚡</h3>
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=add-win&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=add-win&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🚀 Current Focus
+
+- 🔥 Mastering Data Structures & Algorithms
+- ⚙️ Building scalable Spring Boot applications
+- 🎨 Developing modern React interfaces
+- ☁️ Learning Cloud & DevOps
+- 🤖 Exploring AI-powered applications
+
+---
+
+<h3 align="center">
+⚡ Building scalable applications, one commit at a time ⚡
+</h3>
