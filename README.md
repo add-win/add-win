@@ -10,7 +10,7 @@
 # 💫 About Me
 
 - 🎓 B.Tech Computer Science Engineering (KTU)
-- 💻 Full Stack Developer specializing in **Spring Boot + React**
+- 💻 Full Stack Developer specializing in **React**
 - 🌱 Currently learning **Data Structures & Algorithms** and **System Design**
 - 🤖 Interested in **Artificial Intelligence** and **Machine Learning**
 - 🚀 Passionate about building scalable, secure and user-friendly applications
@@ -41,7 +41,7 @@
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css"/>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css"/>
 </p>
 
 ### Frontend
@@ -53,7 +53,7 @@
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=spring,nodejs"/>
+<img src="https://skillicons.dev/icons?i=nodejs"/>
 </p>
 
 ### Database
@@ -80,15 +80,6 @@
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=add-win&theme=tokyonight&hide_border=true"/>
 </p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=add-win&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
-
 ---
 
 # 📈 Contribution Graph
@@ -102,7 +93,7 @@
 # 🚀 Current Focus
 
 - 🔥 Mastering Data Structures & Algorithms
-- ⚙️ Building scalable Spring Boot applications
+- ⚙️ Building scalable Applications
 - 🎨 Developing modern React interfaces
 - ☁️ Learning Cloud & DevOps
 - 🤖 Exploring AI-powered applications
